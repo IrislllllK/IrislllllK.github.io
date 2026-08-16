@@ -1,7 +1,18 @@
 body {
 
-background-color: #f2f4f8;
+body {
 
+background-image: url("背景.jpg");
+
+background-size: cover;
+
+background-position: center;
+
+background-attachment: fixed;
+
+font-family: Arial, sans-serif;
+
+}
 font-family: Arial, sans-serif;
 
 }
